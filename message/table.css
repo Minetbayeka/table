@@ -1,0 +1,14 @@
+.table{
+    
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+main{
+    align-items: center;
+    justify-content: center;
+}
+ .bi:hover{
+    color: aqua;
+    
+ } 
